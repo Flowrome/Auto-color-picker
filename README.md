@@ -1,6 +1,6 @@
-# Project Title
+# AUTO CONTRAST COLOR PICKER
 
-AUTO CONTRAST COLOR PICKER
+
 
 ## Getting Started
 
