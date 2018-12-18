@@ -17,9 +17,7 @@ contains a mixin and a function to pick automatically the font color from a back
 
 There is only one thing you should have to use this library:
 
-```
 [SCSS Compiler](https://sass-lang.com/install)
-```
 
 ### Installing
 
